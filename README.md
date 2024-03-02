@@ -21,7 +21,7 @@ git clone https://github.com/ghostvirus62/ghostscanner.git
 2. Navigate to the cloned directory:
    
 ```bash
-cd ghostvirus-port-scanner
+cd ghostscanner
 ```
 
 3. Run the script with the following command-line arguments:
